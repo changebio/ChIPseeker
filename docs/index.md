@@ -44,12 +44,7 @@ Several visualization functions are implemented to:
 
 ### Vignettes
 
-+ [ggtree](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/ggtree.html)
-+ [Tree Data Import](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeImport.html)
-+ [Tree Visualization](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeVisualization.html)
-+ [Tree Annotation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeAnnotation.html)
-+ [Tree Manipulation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeManipulation.html)
-+ [Advance Tree Annotation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/advanceTreeAnnotation.html)
+<http://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html>
 
 ### Blog posts
 
