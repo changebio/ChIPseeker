@@ -5,7 +5,55 @@
 <span class='st_sina_hcount' displayText='Sina'></span>
 <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
 
+This package is designed for peak **Annotation**, **Comparison** and **Visualization**.
 
+## Project website
+
+`ChIPseeker` is released within the [Bioconductor](http://www.bioconductor.org/packages/ChIPseeker) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/ChIPseeker"><i class="fa fa-github fa-lg"></i> GitHub</a>.
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+Join the group chat in <a href="https://twitter.com/hashtag/ChIPseeker"><i class="fa fa-twitter fa-lg"></i></a> and <a href="http://huati.weibo.com/k/ChIPseeker"><i class="fa fa-weibo fa-lg"></i></a>.
+
+## Installation
+
+Install `ggtree` is easy, follow the guide in the [Bioconductor page](http://bioconductor.org/packages/ChIPseeker):
+
+```r
+## try http:// if https:// URLs are not supported
+source("https://bioconductor.org/biocLite.R")
+## biocLite("BiocUpgrade") ## you may need this
+biocLite("ChIPseeker")
+```
+
+## Overview
+
++ retrieve the nearest genes around the peak
++ annotate genomic region of the peak
++ estimate the significance of overlap among ChIP peak data sets
++ incorporate GEO database for users to compare their own dataset with those deposited in the database
+
+Several visualization functions are implemented to:
++ summarize the coverage of the peak experiment
++ average profile and heatmap of peaks binding to TSS regions
++ genomic annotation
++ distance to TSS
++ overlap of peaks or genes
+
+## Documentation
+
+### Vignettes
+
++ [ggtree](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/ggtree.html)
++ [Tree Data Import](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeImport.html)
++ [Tree Visualization](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeVisualization.html)
++ [Tree Annotation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeAnnotation.html)
++ [Tree Manipulation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeManipulation.html)
++ [Advance Tree Annotation](http://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/advanceTreeAnnotation.html)
+
+### Blog posts
+
+<http://guangchuangyu.github.io/tags/chipseeker>
 
       
 ## Comments
