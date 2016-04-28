@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\nComments\n\n\n\n\n\n\n\n(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();\n\n\n\n\nPlease enable JavaScript to view the \ncomments powered by Disqus.\n\n\n\ncomments powered by \nDisqus",
+            "title": "Home"
+        },
+        {
+            "location": "/#comments",
+            "text": "(function() {\n    // Don't ever inject Disqus on localhost--it creates unwanted\n    // discussions from 'localhost:1313' on your Disqus account...\n    // if (window.location.hostname == \"localhost\")\n    //     return;\n\n    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;\n    var disqus_shortname = 'gcyu';\n    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);\n})();  Please enable JavaScript to view the  comments powered by Disqus.  comments powered by  Disqus",
+            "title": "Comments"
+        },
+        {
+            "location": "/featuredArticles/",
+            "text": "stLight.options({publisher: \"d135f460-3fc5-4802-8169-bd08e4734a09\", doNotHash: false, doNotCopy: false, hashAddressBar: false});\n\n\n\n\n\n\n\n\n\n\n\n2016\n\n\n2015\n\n\nShort interspersed DNA elements and miRNAs: a novel hidden gene regulation layer in zebrafish?\n\n\nChromosome Res\n Sep. 2015 \nhttp://dx.doi.org/10.1007/s10577-015-9484-6",
+            "title": "Featured Articles"
+        },
+        {
+            "location": "/featuredArticles/#2016",
+            "text": "",
+            "title": "2016"
+        },
+        {
+            "location": "/featuredArticles/#2015",
+            "text": "Short interspersed DNA elements and miRNAs: a novel hidden gene regulation layer in zebrafish?  Chromosome Res  Sep. 2015  http://dx.doi.org/10.1007/s10577-015-9484-6",
+            "title": "2015"
+        }
+    ]
+}
