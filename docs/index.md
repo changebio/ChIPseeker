@@ -12,7 +12,7 @@ This package is designed for peak **Annotation**, **Comparison** and **Visualiza
 
 ## Project website
 
-`ChIPseeker` is released within the [Bioconductor](http://www.bioconductor.org/packages/ChIPseeker) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/ChIPseeker"><i class="fa fa-github fa-lg"></i> GitHub</a>.
+`ChIPseeker` is released within the [Bioconductor](https://www.bioconductor.org/packages/ChIPseeker) project and the source code is hosted in <a href="https://github.com/GuangchuangYu/ChIPseeker"><i class="fa fa-github fa-lg"></i> GitHub</a>.
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
@@ -20,7 +20,7 @@ Join the group chat in <a href="https://twitter.com/hashtag/ChIPseeker"><i class
 
 ## Installation
 
-Install `ggtree` is easy, follow the guide in the [Bioconductor page](http://bioconductor.org/packages/ChIPseeker):
+Install `ggtree` is easy, follow the guide in the [Bioconductor page](https://bioconductor.org/packages/ChIPseeker):
 
 ```r
 ## try http:// if https:// URLs are not supported
@@ -47,11 +47,11 @@ Several visualization functions are implemented to:
 
 ### Vignettes
 
-<http://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html>
+<https://bioconductor.org/packages/release/bioc/vignettes/ChIPseeker/inst/doc/ChIPseeker.html>
 
 ### Blog posts
 
-<http://guangchuangyu.github.io/tags/chipseeker>
+<https://guangchuangyu.github.io/tags/chipseeker>
 
       
 ## Comments
